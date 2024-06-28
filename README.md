@@ -16,3 +16,7 @@
        alt="snake" /></a>
 </div>
 
+<!--- Iconos -->
+<div align="center">
+ <img  src="https://media.licdn.com/dms/image/D4D22AQEBbz_bxItPWQ/feedshare-shrink_2048_1536/0/1719609337965?e=1722470400&v=beta&t=DKP1zkHQYBRUjI5d-OjFcYh51Ko7B0Zm2r4S8FbWBss"
+       alt="snake" /></a>
