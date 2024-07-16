@@ -10,13 +10,6 @@
   <li>📲 Me gusta crear contenido en diferentes redes sociales</li>
 </ul>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 
 <!--- Iconos -->
 <div align="center">
