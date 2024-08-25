@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy MayraMoy</a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D4D22AQGwQpNf8knHpw/feedshare-shrink_2048_1536/0/1719521606645?e=1722470400&v=beta&t=9lAvhc3bYmheFlQ1rLEB1m7403Ktg82ZVdHoFoSxawk">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGwQpNf8knHpw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719521606645?e=1727308800&v=beta&t=V3vkPBYvTugjPfk1Fz6XaiH-fslkz3SqWPTQxQkgAyw">
 
 ## Sobre mi
 
@@ -11,5 +11,5 @@
 </ul>
 
 <div align="center">
- <img  src="https://media.licdn.com/dms/image/v2/D4D22AQGwQpNf8knHpw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719521606645?e=1727308800&v=beta&t=V3vkPBYvTugjPfk1Fz6XaiH-fslkz3SqWPTQxQkgAyw"
+ <img  src="https://media.licdn.com/dms/image/v2/D4D22AQEBbz_bxItPWQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719609337965?e=1727308800&v=beta&t=wec53GjUSe2W8ujkx0Z7qXn5iMFZ6CcOY9HpSmEUIsY"
        alt="snake" /></a>
