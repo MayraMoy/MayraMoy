@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy MayraMoy</a> 👋</h1>
 </div>
- <img src="https://media.licdn.com/dms/image/v2/D4D22AQGwQpNf8knHpw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719521606645?e=1738800000&v=beta&t=GZ5hT_4UHtmWCAP0edGoL_zRNCyKN_yom8CbpwLAElM">
+ <img src="https://media.licdn.com/dms/image/v2/D4D22AQGwQpNf8knHpw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719521606645?e=1743638400&v=beta&t=ArZRJf_I0oeVgjs8lwQkNpCDps27g0busU-lMcVpfJc">
 
 ## Sobre mi
 
