@@ -20,8 +20,8 @@
 
 ## 🔗 Portafolio / Proyectos destacados
 <ul>
- <li><a href="https://github.com/MayraMoy/formulario-python.git" target="_blank">📊 Formulario en Python</a></li>
- <li><a href="https://github.com/MayraMoy/calculadora_impuestos.git">🧮 Calculadora de Impuestos</a></li>
- <li><a href="https://github.com/MayraMoy/Juego-Escuela.git">🐍 Juego Sanke</a></li>
- <li><a href="https://github.com/MayraMoy/sistema_ventas.git">🚀 Sistema de Ventas</a></li>
+ <li><a href="https://github.com/MayraMoy/formulario-python.git" target="_blank">Formulario en Python</a></li>
+ <li><a href="https://github.com/MayraMoy/calculadora_impuestos.git" target="_blank">Calculadora de Impuestos</a></li>
+ <li><a href="https://github.com/MayraMoy/Juego-Escuela.git" target="_blank">Juego Sanke</a></li>
+ <li><a href="https://github.com/MayraMoy/sistema_ventas.git"target="_blank">Sistema de Ventas</a></li>
 </ul>
