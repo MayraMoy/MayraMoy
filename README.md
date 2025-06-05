@@ -13,6 +13,6 @@
 
 ## 📫 Cómo contactarme
 <ul>
- <li>✉️ Email: mayrayazminmoyano@gmail.com</li>
+ <li>Email: mayrayazminmoyano@gmail.com</li>
  <li>LinkedIn: Mayra Yazmin Moyano</li>
 </ul>
