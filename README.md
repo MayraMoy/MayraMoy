@@ -1,91 +1,128 @@
+# 👩‍💻 Hola, soy Mayra
+
+Estudiante del último año de la **Tecnicatura en Desarrollo de Software**.
+
+Me interesa construir **aplicaciones web completas**, participando en distintas etapas del desarrollo:
+
+* análisis de requisitos
+* diseño de arquitectura
+* desarrollo frontend y backend
+* bases de datos
+* despliegue
+
+Actualmente estoy desarrollando proyectos propios orientados a **productos digitales y soluciones para pequeños negocios**.
+
+También me estoy formando en **Big Data** y **desarrollo con Inteligencia Artificial**.
+
 ---
 
-## 👩‍💻 Sobre mí
+# 🧠 Tecnologías y herramientas
 
-Soy estudiante del último año de la Tecnicatura en Desarrollo de Software.
-Me interesa construir **aplicaciones web completas**, desde el frontend hasta la base de datos, y aprender cómo se desarrollan **productos digitales reales**.
-
-Actualmente estoy desarrollando un **Sistema de Gestión y Catálogo de Productos Personalizados** para mi emprendimiento, aplicando arquitectura web moderna y buenas prácticas de desarrollo.
-
-También estoy formándome en **Big Data e introducción al desarrollo con Inteligencia Artificial**.
-
----
-
-## 🧠 Tecnologías y herramientas
-
-**Frontend**
+### Frontend
 
 * HTML
 * CSS
 * JavaScript
 * React
 
-**Backend**
+### Backend
 
 * Node.js
 * Express
 
-**Bases de datos**
+### Bases de datos
 
 * PostgreSQL
 * MongoDB
 * SQLite
 
-**ORM**
+### ORM
 
 * Prisma
 
-**Otras herramientas**
+### Herramientas
 
 * Git · GitHub
 * Canva
 
-**Otros conocimientos**
+### Otros conocimientos
 
 * SEO y optimización web
-* hosting y despliegue de sitios
+* hosting y despliegue
 * fundamentos de ciberseguridad
 
 ---
 
-## 🚧 Proyectos en desarrollo
+# 🚧 Proyectos en desarrollo
 
-📌 **Sistema de Gestión y Catálogo de Productos Personalizados**
+## 📦 Sistema de Gestión Comercial (SaaS)
 
-Aplicación web para gestionar y visualizar productos personalizados.
+Sistema web orientado a **pequeños comercios** para gestionar:
 
-Características principales:
+* productos
+* stock
+* ventas
+* reportes
+
+Este proyecto se está desarrollando siguiendo un proceso de **ingeniería de software estructurado**:
+
+* análisis y relevamiento de requisitos
+* documento **SRS (Software Requirements Specification)**
+* diseño de arquitectura del sistema
+* diseño de base de datos
+* planificación de APIs
+* desarrollo basado en tests
+
+Stack tecnológico:
+
+* Node.js
+* Express
+* PostgreSQL
+* React
+
+---
+
+## 🛍 Sistema de Catálogo de Productos Personalizados
+
+Aplicación web pensada para mi emprendimiento de productos personalizados, que permite mostrar y gestionar un catálogo digital.
+
+Funciones principales:
 
 * catálogo de productos
 * filtrado por categorías
-* panel de administración
 * gestión de imágenes
+* panel de administración
 * contacto automático por WhatsApp
 
 Stack utilizado:
 
 * React / Next.js
-* Node.js + Express
+* Node.js
 * PostgreSQL
+* Prisma
 * Cloudinary
 
 ---
 
-## 🎯 Intereses actuales
+# 🎯 Intereses actuales
 
-Actualmente estoy enfocada en aprender más sobre:
+Actualmente estoy profundizando en:
 
 * arquitectura de aplicaciones web
 * desarrollo backend
 * análisis de datos
 * creación de productos digitales
+* desarrollo de SaaS
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
-✉️ Email: [mayrayazminmoyano@gmail.com](mailto:mayrayazminmoyano@gmail.com)
-💼 LinkedIn: Mayra Yazmin Moyano
+✉️ Email
+[mayrayazminmoyano@gmail.com](mailto:mayrayazminmoyano@gmail.com)
+
+💼 LinkedIn
+Mayra Yazmin Moyano
 
 ---
 
