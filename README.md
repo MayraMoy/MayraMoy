@@ -1,32 +1,92 @@
-<h1 align="center">¡Hola! Soy Mayra 👋</h1>
-<p align="center">🌸 Desarrolladora Web Jr. | Estudiante de Tecnicatura en Software | Creativa Digital 🌸</p>
+---
 
-<img src="portada.gif" alt="Descripción del GIF">
+## 👩‍💻 Sobre mí
 
-🚀 Actualmente desarrollo una app de Economia Circular, aplicando mis conocimientos en desarrollo frontend con **HTML, CSS, JavaScript y React**.
+Soy estudiante del último año de la Tecnicatura en Desarrollo de Software.
+Me interesa construir **aplicaciones web completas**, desde el frontend hasta la base de datos, y aprender cómo se desarrollan **productos digitales reales**.
 
-<h2>💻 Tecnologías y herramientas</h2>
-<ul>
-    <li>🛠️ HTML · CSS · JavaScript · React</li>
-    <li>🎨 Canva · Figma</li>
-    <li>🗄️ SQLite · Git · GitHub</li>
-</ul>
+Actualmente estoy desarrollando un **Sistema de Gestión y Catálogo de Productos Personalizados** para mi emprendimiento, aplicando arquitectura web moderna y buenas prácticas de desarrollo.
 
-<h2>✨ Proyectos destacados</h2>
+También estoy formándome en **Big Data e introducción al desarrollo con Inteligencia Artificial**.
 
-📌 [CirculApp – Economia Circular](https://github.com/MayraMoy/CirculApp2.git)  
-Sitio web colorido, dinámico y adaptable para mostrar y vender productos.
+---
 
-📌 [Papelería Creativa – Tienda online](https://mayramoy.github.io/Papeleria/)  
-Sitio web colorido, dinámico y adaptable para mostrar y vender productos.
+## 🧠 Tecnologías y herramientas
 
-📌 [Sitio web informativo y turístico](https://mayramoy.github.io/Serrezuela/)  
-Sitio web que busca difundir los atractivos turísticos del municipio, promover actividades culturales y naturales locales y servir como referencia visual e informativa para turistas y habitantes.
+**Frontend**
 
-<h2>📫 Cómo contactarme</h2>
-<ul>
- <li>✉️ Email: mayrayazminmoyano@gmail.com</li>
- <li>💼 LinkedIn: Mayra Yazmin Moyano</li>
-</ul>
+* HTML
+* CSS
+* JavaScript
+* React
 
-<p align="center">🌟 Gracias por visitar mi perfil 🌟</p>
+**Backend**
+
+* Node.js
+* Express
+
+**Bases de datos**
+
+* PostgreSQL
+* MongoDB
+* SQLite
+
+**ORM**
+
+* Prisma
+
+**Otras herramientas**
+
+* Git · GitHub
+* Canva
+
+**Otros conocimientos**
+
+* SEO y optimización web
+* hosting y despliegue de sitios
+* fundamentos de ciberseguridad
+
+---
+
+## 🚧 Proyectos en desarrollo
+
+📌 **Sistema de Gestión y Catálogo de Productos Personalizados**
+
+Aplicación web para gestionar y visualizar productos personalizados.
+
+Características principales:
+
+* catálogo de productos
+* filtrado por categorías
+* panel de administración
+* gestión de imágenes
+* contacto automático por WhatsApp
+
+Stack utilizado:
+
+* React / Next.js
+* Node.js + Express
+* PostgreSQL
+* Cloudinary
+
+---
+
+## 🎯 Intereses actuales
+
+Actualmente estoy enfocada en aprender más sobre:
+
+* arquitectura de aplicaciones web
+* desarrollo backend
+* análisis de datos
+* creación de productos digitales
+
+---
+
+## 📫 Contacto
+
+✉️ Email: [mayrayazminmoyano@gmail.com](mailto:mayrayazminmoyano@gmail.com)
+💼 LinkedIn: Mayra Yazmin Moyano
+
+---
+
+⭐ Gracias por visitar mi perfil
