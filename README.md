@@ -1,129 +1,128 @@
+<div align="center">
+
 # 👩‍💻 Hola, soy Mayra
 
-Estudiante del último año de la **Tecnicatura en Desarrollo de Software**.
+**Estudiante del último año de la Tecnicatura en Desarrollo de Software**
 
-Me interesa construir **aplicaciones web completas**, participando en distintas etapas del desarrollo:
+Construyo aplicaciones web completas — desde el análisis de requisitos hasta el despliegue.
+Actualmente desarrollando productos digitales y soluciones para pequeños negocios.
 
-* análisis de requisitos
-* diseño de arquitectura
-* desarrollo frontend y backend
-* bases de datos
-* despliegue
+<br>
 
-Actualmente estoy desarrollando proyectos propios orientados a **productos digitales y soluciones para pequeños negocios**.
+![Big Data](https://img.shields.io/badge/Formación-Big%20Data-8b5cf6?style=flat-square&labelColor=1e1b2e)
+![IA](https://img.shields.io/badge/Formación-Inteligencia%20Artificial-0ea5e9?style=flat-square&labelColor=0c1a27)
+![Disponible](https://img.shields.io/badge/Estado-Construyendo%20proyectos-10b981?style=flat-square&labelColor=052e16)
 
-También me estoy formando en **Big Data** y **desarrollo con Inteligencia Artificial**.
-
----
-
-# 🧠 Tecnologías y herramientas
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-### Backend
-
-* Node.js
-* Express
-
-### Bases de datos
-
-* PostgreSQL
-* MongoDB
-* SQLite
-
-### ORM
-
-* Prisma
-
-### Herramientas
-
-* Git · GitHub
-* Canva
-
-### Otros conocimientos
-
-* SEO y optimización web
-* hosting y despliegue
-* fundamentos de ciberseguridad
+</div>
 
 ---
 
-# 🚧 Proyectos en desarrollo
+## 🧠 Tecnologías y herramientas
 
-## 📦 Sistema de Gestión Comercial (SaaS)
+<table>
+  <tr>
+    <td valign="top" width="25%">
 
-Sistema web orientado a **pequeños comercios** para gestionar:
+**Frontend**
+- HTML · CSS
+- JavaScript
+- React
 
-* productos
-* stock
-* ventas
-* reportes
+</td>
+    <td valign="top" width="25%">
 
-Este proyecto se está desarrollando siguiendo un proceso de **ingeniería de software estructurado**:
+**Backend**
+- Node.js
+- Express
 
-* análisis y relevamiento de requisitos
-* documento **SRS (Software Requirements Specification)**
-* diseño de arquitectura del sistema
-* diseño de base de datos
-* planificación de APIs
-* desarrollo basado en tests
+</td>
+    <td valign="top" width="25%">
 
-Stack tecnológico:
+**Bases de datos**
+- PostgreSQL
+- MongoDB
+- SQLite
+- Prisma (ORM)
 
-* Node.js
-* Express
-* PostgreSQL
-* React
+</td>
+    <td valign="top" width="25%">
 
----
+**Herramientas**
+- Git · GitHub
+- Canva
+- SEO · Hosting
+- Ciberseguridad
 
-## 🛍 Sistema de Catálogo de Productos Personalizados
-
-Aplicación web pensada para mi emprendimiento de productos personalizados, que permite mostrar y gestionar un catálogo digital.
-
-Funciones principales:
-
-* catálogo de productos
-* filtrado por categorías
-* gestión de imágenes
-* panel de administración
-* contacto automático por WhatsApp
-
-Stack utilizado:
-
-* React / Next.js
-* Node.js
-* PostgreSQL
-* Prisma
-* Cloudinary
+</td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 Intereses actuales
+## 🚧 Proyectos en desarrollo
 
-Actualmente estoy profundizando en:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-* arquitectura de aplicaciones web
-* desarrollo backend
-* análisis de datos
-* creación de productos digitales
-* desarrollo de SaaS
+### 📦 Sistema de Gestión Comercial
+![SaaS](https://img.shields.io/badge/tipo-SaaS-8b5cf6?style=flat-square)
+
+Sistema web para **pequeños comercios**. Desarrollo estructurado con SRS, diseño de arquitectura, APIs y TDD.
+
+**Funciones:** gestión de productos · stock · ventas · reportes
+
+**Stack:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+    <td valign="top" width="50%">
+
+### 🛍 Catálogo de Productos Personalizados
+![App](https://img.shields.io/badge/tipo-App%20Web-10b981?style=flat-square)
+
+Catálogo digital para mi emprendimiento, con gestión de imágenes y contacto automático por WhatsApp.
+
+**Funciones:** catálogo · filtros · panel admin · WhatsApp
+
+**Stack:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 ---
 
-# 📫 Contacto
+## 🎯 Intereses actuales
 
-✉️ Email
-[mayrayazminmoyano@gmail.com](mailto:mayrayazminmoyano@gmail.com)
+<div align="center">
 
-💼 LinkedIn
-Mayra Yazmin Moyano
+`Arquitectura web` &nbsp; `Desarrollo backend` &nbsp; `Análisis de datos` &nbsp; `Inteligencia Artificial` &nbsp; `Productos digitales` &nbsp; `SaaS`
+
+</div>
 
 ---
 
-⭐ Gracias por visitar mi perfil
+## 📫 Contacto
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/✉️%20Email-mayrayazminmoyano%40gmail.com-ea4335?style=for-the-badge)](mailto:mayrayazminmoyano@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Mayra%20Yazmin%20Moyano-0077B5?style=for-the-badge)](https://linkedin.com/in/mayra-yazmin-moyano)
+
+<br>
+
+⭐ *Gracias por visitar mi perfil*
+
+</div>
