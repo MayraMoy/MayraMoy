@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="600" alt="Portada Linkedin oficina foto blanco (3)" src="https://github.com/user-attachments/assets/6f1393a7-c608-4fcf-80b0-47a6d03fbc9a" />
+<img width="2000" height="600" alt="PORTADA" src="https://github.com/user-attachments/assets/7a291182-a5cf-4580-b290-7a3c70fe7853" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visitar-2563EB?style=for-the-badge)](https://portafolio-jade-delta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayra_Yazmin_Moyano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_LINKEDIN](https://www.linkedin.com/in/mayra-yazmin-moyano/))
