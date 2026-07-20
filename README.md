@@ -143,6 +143,6 @@ Sistema para registrar horas de estudiantes.
 
 ### ✨ *"Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones que generen impacto."*
 
-<img width="2000" height="600" alt="Portada Linkedin oficina foto blanco (8)" src="https://github.com/user-attachments/assets/24c5c692-0fd7-422d-8494-a3284d8145de" />
+<img width="2000" height="600" alt="Portada Linkedin oficina foto blanco (15)" src="https://github.com/user-attachments/assets/0ecf53d8-5490-4704-bcd3-c6d3b9fa97e8" />
 
 </div>
